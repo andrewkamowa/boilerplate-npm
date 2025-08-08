@@ -1,7 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Andrew Kamowa",
+	"description": "Learn how to use package.json by kamowa",
+	"keywords": ["package.json","npm","node","nodejs","freecodecamp"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
+		"@freecodecamp/example": "^1.2.13",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
